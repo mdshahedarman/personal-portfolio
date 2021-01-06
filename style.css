@@ -62,17 +62,141 @@ section{
     width: 30%;
     margin: auto;
 }
-    
-    
-    
 
-.text img{
-width: 100%;
+.middle-section{
+    width: 100%;
+    margin: 30px 0;
+    clear: both;
 }
-footer p{
+.middle-in-section{
+width: 906px;
+height: 225px;
+margin: 0 auto;
+background-image: url(images/photo4.png);
+background-size: cover;
+}
+.middle-in-section .second-inner{
+    line-height: 225px;
+}
+.middle-in-section.h1-div {
+    float: left;
+    width: 70%;
+    line-height: 134px;
+    margin-left: 60px;
+    color: white;
+}
+.h2-div h2{
+    font-size: 60px;
+}
+.middle-in-secton .button-div{
+    float: right;
+    width: 20%;
+} 
+.light-colur{
+    color: white;
+}
+.footer-section {
+    background-color: #F8F9FC;
+    width: 100%;
+    padding: 25px 0;
+    line-height: 5px;
+}
+.footer-inner{
+    max-width: 906px;
+    margin: 0 auto;
+    color: gray;
+}
+.footer-left{
+    float: left;
+}
+.footer-right{
+    float: right;
+}
+.middle-section{
+    height: 500px;
+}
+.chat-btn{
+    background-image: url(images/photo4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120px;
+    width: 650px;
+    margin: 40px auto;
+    border-radius: 10px;
+}
+.chat-btn h2, a{
+    display: inline-block;
+}
+.chat-btn h2{
+    margin-top: 45px;
+    margin-left: 35px;
+    font-family: 'Lato',sans-serif;
+    color: white;
+    font-size: 30px;
+}
+.chat-btn a{
+    margin-left: 35%;
+    font-weight: 400;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(221, 66, 79),rgb(230, 95, 71));
+    padding: 8px 12px;
+    border-radius: 4px;
+    color: white;
+}
+.contact-info{
+    width: 20%;
+    margin: 20px auto 80px;
+}
+.contact-info p{
+    display: block;
+    margin:0 auto;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.contact-info a{
+    text-decoration: none;
+    color: black;
+}
+
+.contact-info .fab{
+    margin-right: 5px;
+}
+.contact-info .fa-facebook-square{
+    color: rgb(74, 74, 219);
+}
+.contact-info .fa-github{
+    color: black;
+}
+.contact-info{
+    width: 20%;
+    margin: 20px auto 80px;
+}
+.contact-info p{
+    display: block;
+    margin:0 auto;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.contact-info a{
+    text-decoration: none;
+    color: black;
+}
+
+.contact-info .fab{
+    margin-right: 5px;
+}
+.contact-info .fa-facebook-square{
+    color: rgb(74, 74, 219);
+}
+.contact-info .fa-github{
+    color: black;
+}
+
+footer{
+    font-size: 18px;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
 }
-
-
-    
-
